@@ -36,7 +36,7 @@ Includes a **200-character limit** with a live counter and form validation using
 
 ## 📁 File Info
 
-- `feedback_form.html` → Contains all HTML, CSS, and JS in one file.  
+- `index.html` → Contains all HTML, CSS, and JS in one file.  
   You can open this file directly in your browser or host it using GitHub Pages.
 
 ---
